@@ -9,4 +9,4 @@ header_tagline_paragraph: "Propeller is a world-class insights platform targetin
 
 # Get in touch
 
-Interested? Let us know: <a href="mailto:hello@propellerhq.co.uk">hello@propellerhq.co.uk</a>
+Interested? Let us know: [hello@propellerhq.co.uk](mailto:hello@propellerhq.co.uk)
