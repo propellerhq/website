@@ -4,6 +4,29 @@
 @import "node_modules/tailwindcss/components";
 /* Tailwind's utility classes - generated based on config file */
 @import "node_modules/tailwindcss/utilities";
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@700&display=swap');
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Zilla Slab', sans-serif;
+}
+
+div#content h2 {
+  font-size: revert;
+}
+
+a {
+  color: #666;
+}
+
+a:hover {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+
+footer {
+  font-size: small;
+  font-weight: lighter;
+}
 
 /*
 #
